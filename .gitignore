@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Temp
+*.sdf
+*.opensdf
+*.sup
+*.vcxproj.user
