@@ -25,4 +25,9 @@
       <Filter>Menus</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Menus</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

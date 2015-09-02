@@ -3,11 +3,9 @@
 //Main source file
 //Last Updated: September 1, 2015
 
+#include"MainMenu.cpp";
+
 int main(int argc, char** argv) {
-
-
-
-
 
 
 	return 0;
