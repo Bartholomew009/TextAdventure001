@@ -27,4 +27,11 @@
 				exit(0);
 				break;
 		}
+		void MainMenu::MenuLoad() {
+
+		}
+		void MainMenu::MenuNew() {
+
+		}
+
 	}

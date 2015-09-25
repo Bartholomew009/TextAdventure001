@@ -6,7 +6,7 @@
 #include"MainMenu.cpp";
 
 int main(int argc, char** argv) {
-
+	MainMenu.MenuOptions();
 
 	return 0;
 }
