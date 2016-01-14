@@ -2,7 +2,7 @@
 #include<string>
 using std::cout;
 using std::cin;
-static class MainMenu {
+class MainMenu {
 public:
 	MainMenu();
 	void MenuChoice();
@@ -10,6 +10,6 @@ public:
 	void MenuLoad();
 	void MenuNew();
 private:
-	char c;
+	 char c;
 
 };
