@@ -29,7 +29,8 @@
 		}
 	}
 		void MainMenu::MenuLoad() {
-
+			std::ofstream loadGame;
+			loadGame.open("GameFile.txt");
 		}
 		void MainMenu::MenuNew() {
 

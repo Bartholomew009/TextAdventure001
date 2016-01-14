@@ -16,6 +16,12 @@
     <Filter Include="Menus">
       <UniqueIdentifier>{c191b4d1-fd82-43b1-bd59-c72fa2fd69a0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="SaveData">
+      <UniqueIdentifier>{db79a7a9-c268-42cb-8024-7178d5151af9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameCaore">
+      <UniqueIdentifier>{cffc338a-3cef-4d4d-9b44-cfc8608f46a6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -28,6 +34,9 @@
   <ItemGroup>
     <ClInclude Include="MainMenu.h">
       <Filter>Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="Items.h">
+      <Filter>GameCaore</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
